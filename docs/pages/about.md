@@ -7,9 +7,15 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi, I'm Paige! 
 
+I'm a Data Analyst based in the Boston area with 6+ years of experience turning complex data into clear, actionable insights. I specialize in SQL, Tableau, and Excel, and I'm currently expanding my skills in Python.
+
+I currently work at Mass General Brigham where I support payer contract negotiations, financial KPI reporting, and ad hoc analysis for clinical and operational leadership.
+
+I'm passionate about using data to tell stories and solve real business problems across industries.
+
+Feel free to explore my projects or reach out via LinkedIn or email!
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
