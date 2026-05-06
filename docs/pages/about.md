@@ -11,7 +11,7 @@ Hi, I'm Paige!
 
 I'm a Data Analyst based in the Boston area with 6+ years of experience turning complex data into clear, actionable insights. I specialize in SQL, Tableau, and Excel, and I'm currently expanding my skills in Python.
 
-I currently work at Mass General Brigham where I support payer contract negotiations, financial KPI reporting, and ad hoc analysis for clinical and operational leadership.
+In my current role at Mass General Brigham I support complex financial analysis, KPI reporting, and ad hoc analysis for cross-functional leadership teams.
 
 I'm passionate about using data to tell stories and solve real business problems across industries.
 
